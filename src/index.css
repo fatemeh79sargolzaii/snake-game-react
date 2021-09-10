@@ -13,6 +13,8 @@
   background-color: black ;
   border: 1px solid #fff;
   z-index: 2;
+
+  
 }
 .snake-food{
   position: absolute;

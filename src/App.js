@@ -19,6 +19,8 @@ const initialState = {
     [0,0],
     [2,0]
   ]
+
+  
 }
 
 class App extends Component {
